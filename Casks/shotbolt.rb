@@ -1,6 +1,6 @@
 cask "shotbolt" do
-  version "1.2.2"
-  sha256 "758c3df38b5c9eba58f566c0fc24396b22599ab3becee665cb02549d7ee79265"
+  version "1.2.3"
+  sha256 "a1f1e55a8be534f2c9a1fbf29035b349acf36f37af1b9219ba8cd5997b3771cd"
 
   url "https://github.com/breukr/shotbolt-releases/releases/download/v#{version}/Shotbolt-#{version}.dmg"
   name "Shotbolt"
